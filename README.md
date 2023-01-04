@@ -1,4 +1,4 @@
-# simpleTetris
+# Simple Tetris
 *SimpleTetris-unity3D*
 
 <p align="center">
